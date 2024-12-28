@@ -1,13 +1,13 @@
 # dependencies
 node_modules
 
-# testinghttps://github.com/webaudiomodules/sdk
+# testing
 coverage
 
 # production
-build/
-
-esm/
+# build/
+# dist/
+# esm/
 
 # ide
 .vscode
@@ -17,6 +17,5 @@ esm/
 .env*.local
 .log*
 .cache
-*.zip
 lerna-debug.log
-yarn-error.log
+packages/host/yarn-error.log
