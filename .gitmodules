@@ -10,3 +10,7 @@
 	path = packages/sdk-parammgr
 	url = https://github.com/webaudiomodules/sdk-parammgr
 	branch = master
+[submodule "packages/PedalBoard-WAC2022"]
+	path = packages/PedalBoard-WAC2022
+	url = https://github.com/darkoverlordofdata/TER.git
+	branch = banth
