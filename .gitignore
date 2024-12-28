@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+
+# testinghttps://github.com/webaudiomodules/sdk
+coverage
+
+# production
+build/
+dist/
+esm/
+
+# ide
+.vscode
+
+# misc
+.DS_Store
+.env*.local
+.log*
+.cache
+*.zip
+lerna-debug.log
+yarn-error.log
