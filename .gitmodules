@@ -2,13 +2,13 @@
 	path = packages/api
 	url = https://github.com/webaudiomodules/api
 	branch = v2
-[submodule "packages/sdk-parammgr"]
-	path = packages/sdk-parammgr
-	url = https://github.com/webaudiomodules/sdk-parammgr
-	branch = master
 [submodule "packages/sdk"]
 	path = packages/sdk
 	url = https://github.com/webaudiomodules/sdk
+	branch = master
+[submodule "packages/sdk-parammgr"]
+	path = packages/sdk-parammgr
+	url = https://github.com/webaudiomodules/sdk-parammgr
 	branch = master
 [submodule "packages/PedalBoard-WAC2022"]
 	path = packages/PedalBoard-WAC2022
