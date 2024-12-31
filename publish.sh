@@ -13,3 +13,6 @@ cp -rf ./packages/sdk-parammgr ./docs
 rm ./docs/sdk-parammgr/.git
 rm ./docs/sdk-parammgr/src/sdk/.git
 
+cp -rf ./packages/DarkChorus ./docs
+cp -rf ./packages/Freeverb ./docs
+cp -rf ./packages/host ./docs
